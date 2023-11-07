@@ -19,6 +19,11 @@ links
 - https://github.com/TarunPara/Code-Refactor
   
 - link to the site - https://tarunpara.github.io/Code-Refactor/
+
+
+![01-html-css-git-homework-demo](https://github.com/TarunPara/Code-Refactor/assets/134483509/e9e46e8a-f008-46de-9587-1e4ba4e5d142)
+
+
   
 ## Credits
 - Project Developer and Maintainer
