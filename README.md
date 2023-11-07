@@ -16,7 +16,8 @@ The name of the webpage tells you quickly what the site is about, making sure it
 
 links 
 
-- [@TarunPara](https://github.com/TarunPara)
+- https://github.com/TarunPara/Code-Refactor
+  
 - link to the site - https://tarunpara.github.io/Code-Refactor/
   
 ## Credits
