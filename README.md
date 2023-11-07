@@ -14,10 +14,12 @@ The titles on the page, like `h1`, `h2`, and `h3`, are used in the right order t
 
 The name of the webpage tells you quickly what the site is about, making sure it's straightforward and friendly for all users.
 
+links 
+
+- [@TarunPara](https://github.com/TarunPara)
+- link to the site - https://tarunpara.github.io/Code-Refactor/
+  
 ## Credits
-
-- [@TarunPara](https://github.com/TarunPara) 
-
 - Project Developer and Maintainer
 https://www.w3schools.com/html/html5_semantic_elements.asp
 
